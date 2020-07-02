@@ -1,0 +1,3 @@
+on script load:
+	set {_i} to slimeball of efficiency 1
+	register new shaped recipe for {_i} named "xd" with lore "xd" using dirt, dirt, dirt, dirt, dirt, dirt, dirt, dirt, dirt
